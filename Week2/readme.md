@@ -12,7 +12,6 @@ To collect construction datasets and prepare them for analysis using Power BI an
 ## Tools Used
 - Power BI Desktop
 - Power Query
-- Microsoft Excel
 - CSV
 
 ## Activities
